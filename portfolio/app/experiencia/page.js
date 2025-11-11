@@ -65,7 +65,7 @@ export default function Experiencia() {
             E-mail
           </a>
           <a
-            href="https://linkedin.com/in/echilin"
+            href="https://br.linkedin.com/in/echilin-santos-1a89191b5?trk=people-guest_people_search-card"
             target="_blank"
             className="px-5 py-2 border border-purple-500 hover:bg-purple-500 rounded-lg transition"
           >
